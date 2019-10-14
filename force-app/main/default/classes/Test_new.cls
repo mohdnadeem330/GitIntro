@@ -6,5 +6,6 @@ public with sharing class Test_new {
         c.Status='NEW';
         insert c;
         }
+        System.debug('Hello');
     }
 }

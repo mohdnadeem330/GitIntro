@@ -6,7 +6,7 @@
     "**/.sfdx": true
     ,"salesforcedx-vscode-core.retrieve-test-code-coverage":true
   },
-  "eslint.nodePath": "c:\\Users\\781148\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-46.16.0\\node_modules"
+  "eslint.nodePath": "c:\\Users\\781148\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-47.1.0\\node_modules"
 }
 
 
