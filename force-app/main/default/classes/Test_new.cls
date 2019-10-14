@@ -6,6 +6,6 @@ public with sharing class Test_new {
         c.Status='NEW';
         insert c;
         }
-        System.debug('Hello world! from jenkins this is the final try');
+        System.debug('Hello world! from jenkins this is the final');
     }
 }
